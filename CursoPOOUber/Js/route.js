@@ -1,5 +1,5 @@
 function route(){
     this.id
-    this.start
-    this.end
+    this.start = []
+    this.end = []
 }
